@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/chatbot-tools/static/css/main.64e65910.chunk.css",
-    "main.js": "/chatbot-tools/static/js/main.f133f06d.chunk.js",
-    "main.js.map": "/chatbot-tools/static/js/main.f133f06d.chunk.js.map",
+    "main.js": "/chatbot-tools/static/js/main.936e0976.chunk.js",
+    "main.js.map": "/chatbot-tools/static/js/main.936e0976.chunk.js.map",
     "runtime-main.js": "/chatbot-tools/static/js/runtime-main.6762685a.js",
     "runtime-main.js.map": "/chatbot-tools/static/js/runtime-main.6762685a.js.map",
     "static/css/2.86df01db.chunk.css": "/chatbot-tools/static/css/2.86df01db.chunk.css",
-    "static/js/2.da7db958.chunk.js": "/chatbot-tools/static/js/2.da7db958.chunk.js",
-    "static/js/2.da7db958.chunk.js.map": "/chatbot-tools/static/js/2.da7db958.chunk.js.map",
+    "static/js/2.2b0458e3.chunk.js": "/chatbot-tools/static/js/2.2b0458e3.chunk.js",
+    "static/js/2.2b0458e3.chunk.js.map": "/chatbot-tools/static/js/2.2b0458e3.chunk.js.map",
     "static/js/3.7245c1cf.chunk.js": "/chatbot-tools/static/js/3.7245c1cf.chunk.js",
     "static/js/3.7245c1cf.chunk.js.map": "/chatbot-tools/static/js/3.7245c1cf.chunk.js.map",
     "static/js/4.e21bde80.chunk.js": "/chatbot-tools/static/js/4.e21bde80.chunk.js",
     "static/js/4.e21bde80.chunk.js.map": "/chatbot-tools/static/js/4.e21bde80.chunk.js.map",
     "index.html": "/chatbot-tools/index.html",
-    "precache-manifest.348ef3a87bf5c17bd0f33d21a480250b.js": "/chatbot-tools/precache-manifest.348ef3a87bf5c17bd0f33d21a480250b.js",
+    "precache-manifest.683d681a66cf25b0db5953b63fdd21a8.js": "/chatbot-tools/precache-manifest.683d681a66cf25b0db5953b63fdd21a8.js",
     "service-worker.js": "/chatbot-tools/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/chatbot-tools/static/css/2.86df01db.chunk.css.map",
     "static/css/main.64e65910.chunk.css.map": "/chatbot-tools/static/css/main.64e65910.chunk.css.map",
-    "static/js/2.da7db958.chunk.js.LICENSE.txt": "/chatbot-tools/static/js/2.da7db958.chunk.js.LICENSE.txt",
+    "static/js/2.2b0458e3.chunk.js.LICENSE.txt": "/chatbot-tools/static/js/2.2b0458e3.chunk.js.LICENSE.txt",
     "static/js/3.7245c1cf.chunk.js.LICENSE.txt": "/chatbot-tools/static/js/3.7245c1cf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6762685a.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.da7db958.chunk.js",
+    "static/js/2.2b0458e3.chunk.js",
     "static/css/main.64e65910.chunk.css",
-    "static/js/main.f133f06d.chunk.js"
+    "static/js/main.936e0976.chunk.js"
   ]
 }
