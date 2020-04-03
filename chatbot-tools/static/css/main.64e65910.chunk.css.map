@@ -1,0 +1,1 @@
+{"version":3,"sources":["standardSearchHeader.css","main.css"],"names":[],"mappings":"AAAA,gBACE,iBACF,CCFA,cACE,iBACF","file":"main.64e65910.chunk.css","sourcesContent":[".Search.margins {\r\n  margin-right: 86px;\r\n}",".align-center {\r\n  text-align: center;\r\n}"]}
